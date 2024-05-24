@@ -2,8 +2,6 @@ Live API URL -  https://hall-booking-task-exz5.onrender.com
 
 API comments are given below:-
 
-
-
 1. get all rooms & bookingDetails -  get("/")
 2. Create a Room - post("/createRoom")
 3. Book a Room - post("/bookRoom")
